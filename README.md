@@ -50,12 +50,12 @@ Used a labeled Twitter dataset for hate speech detection. The dataset includes t
 ### 🔍 Example of Predictions
 
 ![Image](https://github.com/user-attachments/assets/21dce061-e8d7-4f80-9f9b-5eb37d61f093)
-![Image](https://github.com/user-attachments/assets/0414182b-f4f9-4eb2-a3a3-ebb93758736b)
+![Image](https://github.com/user-attachments/assets/8047f87b-38c5-4303-8a1a-afc2b6d6ba79)
 
 ### 📈 Accuracy Score
 Model achieved an accuracy of **0.8843**
 
-![Image](https://github.com/user-attachments/assets/8047f87b-38c5-4303-8a1a-afc2b6d6ba79)
+![Image](https://github.com/user-attachments/assets/0414182b-f4f9-4eb2-a3a3-ebb93758736b)
 
 ## 🚀 Getting Started
 
